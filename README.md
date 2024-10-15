@@ -1,6 +1,6 @@
-# scholar__app
+# CHAT_APP WITH FIREBASE 
 
-A new Flutter project.
+A CHAT_APP WITH FIREBASE CLOUDE STORGE AND AUTH
 
 ## Getting Started
 
